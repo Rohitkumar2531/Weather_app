@@ -1,0 +1,2 @@
+API_KEY = "61e040cbca4eecad4e17981305059737" 
+DEFAULT_UNIT = "metric"  
